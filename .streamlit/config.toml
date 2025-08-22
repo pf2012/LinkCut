@@ -1,0 +1,18 @@
+[server]
+
+port=80
+
+
+[client]
+showSidebarNavigation = false
+
+
+
+[theme]
+base="light"
+
+
+[theme.sidebar]
+
+backgroundColor = "#303030"
+
